@@ -1,1 +1,2 @@
 # taco_time
+I love tacos and I bet you too. This project is about showing the world the greatness of this Mexican dish and also, it will be a way for me to practice my web development skills and learn a lot of new and amazing stuff.
