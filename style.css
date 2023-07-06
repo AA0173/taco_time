@@ -1,0 +1,17 @@
+* {
+    font-family: Garamond, serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+h1 {
+    background-color: #ff0000;
+}
+
+h2 {
+    background-color: #008000;
+}
