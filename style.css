@@ -23,3 +23,13 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.barbacoa_tacos {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: #ff0000;
+}
