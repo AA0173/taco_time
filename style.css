@@ -43,3 +43,13 @@ h2 {
     border-style: solid;
     border-color: #ff0000;
 }
+
+.tacos_al_pastor {
+    height: auto;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: #ff0000;
+}
