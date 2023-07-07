@@ -16,40 +16,35 @@ h2 {
     background-color: #008000;
 }
 
-.mexican_chef {
+.mexican_chef,
+.barbacoa_tacos,
+.birria_de_res_tacos,
+.tacos_al_pastor {
     height: auto;
-    width: 370px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.barbacoa_tacos,
+.birria_de_res_tacos,
+.tacos_al_pastor {
+    border-style: solid;
+    border-color: #ff0000;
+}
+
+.mexican_chef {
+    width: 370px;
 }
 
 .barbacoa_tacos {
-    height: auto;
     width: 600px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: solid;
-    border-color: #ff0000;
 }
 
 .birria_de_res_tacos {
-    height: auto;
     width: 450px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: solid;
-    border-color: #ff0000;
 }
 
 .tacos_al_pastor {
-    height: auto;
     width: 800px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: solid;
-    border-color: #ff0000;
 }
