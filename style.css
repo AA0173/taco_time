@@ -33,3 +33,13 @@ h2 {
     border-style: solid;
     border-color: #ff0000;
 }
+
+.birria_de_res_tacos {
+    height: auto;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: #ff0000;
+}
